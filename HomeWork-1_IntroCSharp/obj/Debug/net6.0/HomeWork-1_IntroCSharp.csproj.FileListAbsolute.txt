@@ -1,0 +1,15 @@
+D:\python\lesson3\HomeWork-1_IntroCSharp\bin\Debug\net6.0\HomeWork-1_IntroCSharp.exe
+D:\python\lesson3\HomeWork-1_IntroCSharp\bin\Debug\net6.0\HomeWork-1_IntroCSharp.deps.json
+D:\python\lesson3\HomeWork-1_IntroCSharp\bin\Debug\net6.0\HomeWork-1_IntroCSharp.runtimeconfig.json
+D:\python\lesson3\HomeWork-1_IntroCSharp\bin\Debug\net6.0\HomeWork-1_IntroCSharp.dll
+D:\python\lesson3\HomeWork-1_IntroCSharp\bin\Debug\net6.0\HomeWork-1_IntroCSharp.pdb
+D:\python\lesson3\HomeWork-1_IntroCSharp\obj\Debug\net6.0\HomeWork-1_IntroCSharp.csproj.AssemblyReference.cache
+D:\python\lesson3\HomeWork-1_IntroCSharp\obj\Debug\net6.0\HomeWork-1_IntroCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\python\lesson3\HomeWork-1_IntroCSharp\obj\Debug\net6.0\HomeWork-1_IntroCSharp.AssemblyInfoInputs.cache
+D:\python\lesson3\HomeWork-1_IntroCSharp\obj\Debug\net6.0\HomeWork-1_IntroCSharp.AssemblyInfo.cs
+D:\python\lesson3\HomeWork-1_IntroCSharp\obj\Debug\net6.0\HomeWork-1_IntroCSharp.csproj.CoreCompileInputs.cache
+D:\python\lesson3\HomeWork-1_IntroCSharp\obj\Debug\net6.0\HomeWork-1_IntroCSharp.dll
+D:\python\lesson3\HomeWork-1_IntroCSharp\obj\Debug\net6.0\refint\HomeWork-1_IntroCSharp.dll
+D:\python\lesson3\HomeWork-1_IntroCSharp\obj\Debug\net6.0\HomeWork-1_IntroCSharp.pdb
+D:\python\lesson3\HomeWork-1_IntroCSharp\obj\Debug\net6.0\HomeWork-1_IntroCSharp.genruntimeconfig.cache
+D:\python\lesson3\HomeWork-1_IntroCSharp\obj\Debug\net6.0\ref\HomeWork-1_IntroCSharp.dll
